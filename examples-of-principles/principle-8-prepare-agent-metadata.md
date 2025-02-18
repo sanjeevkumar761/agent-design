@@ -1,4 +1,4 @@
-# Principle #1: Prepare shareable agent metadata
+# Principle #8: Prepare shareable agent metadata
 
 # Metadata for Invoice Reconciliation Agent (IRA)
 
